@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "Invoice to Stock Picking",
-    'version': '12.0',
+    'name': "Invoice to Stock Picking it Brasil",
+    'version': '12.1',
     'summary': """Stock Picking From Customer/Vendor Invoice""",
     'description': """This Module Enables to Create Stock Picking From Customer/Vendor Invoice""",
     'author': "PPTS [India] Pvt.Ltd.",
